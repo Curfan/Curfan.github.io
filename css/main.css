@@ -4,11 +4,13 @@
 }
 body{
 
+  height:860px;
   font-family:arial;
   background-color: #EDF2C5;
+  margin:0 auto;
 }
 .hoho{
-  width:1260px;
+  max-width:1260px;
   height:860px;
   background-color: #EDF2C5;
   margin-left: 150px;
@@ -192,4 +194,7 @@ margin-left: 52px;
   margin-left:413px;
   font-size: 12px;
   color:#EDF2C5
+}
+.check{
+  margin：0 auto;
 }
